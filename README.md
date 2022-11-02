@@ -16,12 +16,16 @@ OBJECTIVE
 
 
 METHODS USED
+
     PCA 
+    
     MANOVA
+    
     Hierarchical Clustering
     
     
 TOOL USED
+
     R 
 
 
