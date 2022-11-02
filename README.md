@@ -15,4 +15,13 @@ OBJECTIVE
  To find out which platform shows frequent advertisements through which people are influenced.
 
 
+METHODS USED
+    PCA 
+    MANOVA
+    Hierarchical Clustering
+    
+    
+TOOL USED
+    R 
+
 
